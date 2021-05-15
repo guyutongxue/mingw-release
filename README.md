@@ -6,7 +6,7 @@ Visit [GitHub Release](https://github.com/Guyutongxue/mingw-release/releases) to
 
 ## Download from Mainland China?
 
-- https://gytx.lanzous.com/b01bpa41i
+- https://gytx.lanzoui.com/b01bpa41i
 - Passcode `cgzy`
 
 ## How to build
