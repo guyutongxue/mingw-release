@@ -1,6 +1,6 @@
 # mingw-release
 
-Guyutongxue personal builds of MingW-w64
+Guyutongxue personal builds of MinGW-w64
 
 Visit [GitHub Release](https://github.com/Guyutongxue/mingw-release/releases) to download.
 
