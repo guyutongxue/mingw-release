@@ -1,4 +1,4 @@
-# Please use [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) or [winlibs](https://github.com/brechtsanders/winlibs_mingw)
+# Please use [mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries/releases) or [winlibs](https://github.com/brechtsanders/winlibs_mingw/releases)
 
 THIS REPO IS ARCHIVED.
 
